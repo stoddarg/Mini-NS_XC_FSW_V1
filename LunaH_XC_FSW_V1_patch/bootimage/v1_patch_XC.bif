@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = MCS
+the_ROM_image:
+{
+	[bootloader]C:\Users\EJohnson\Desktop\LunaH_XS_FSW_V1_patch\fsbl\Release\fsbl.elf
+	C:\Users\EJohnson\Desktop\LunaH_XS_FSW_V1_patch\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	C:\Users\EJohnson\Desktop\LunaH_XS_FSW_V1_patch\LunaH_XC_FSW_V1_patch\Release\LunaH_XC_FSW_V1_patch.elf
+}
